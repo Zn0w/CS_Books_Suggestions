@@ -1,4 +1,4 @@
-Computer architectire:
+## Computer architectire:
 
 Carpinelli, J. D. Computer Systems Organization and Architecture. Boston, MA:
 Addison-Wesley, 2001.
@@ -29,7 +29,7 @@ NJ: Prentice-Hall, 2006.
 
 
 
-Oparating Systems:
+## Operating Systems:
 
 Bishop, M. Introduction to Computer Security. Boston, MA: Addison-Wesley, 2005.
 Davis, W. S. and T. M. Rajkumar. Operating Systems: A Systematic View, 6th ed.
