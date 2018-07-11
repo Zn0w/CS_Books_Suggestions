@@ -123,3 +123,45 @@ MA: Addison-Wesley, 2007.
 Polya, G. How to Solve It. Princeton, NJ: Princeton University Press, 1973.
 
 Roberts, E. S. Thinking Recursively. New York: Wiley, 1986.
+
+
+
+## Programming Languages:
+
+Aho, A. V., M. S. Lam, R. Sethi, and J. D. Ullman. Compilers: Principles, Tech-
+niques, and Tools, 2nd ed. Boston, MA: Addison-Wesley, 2007.
+
+Barnes, J. Programming in Ada 2005. Boston, MA: Addison-Wesley, 2006.
+
+Clocksin, W. F. and C. S. Mellish. Programming in Prolog, 5th ed. New York:
+Springer-Verlag, 2003.
+
+Friedman, D. P., and M. Felleisen. The Little Schemer, 4th ed. Cambridge, MA:
+MIT Press, 1995.
+
+Hamburger, H. and D. Richards. Logic and Language Models for Computer Science.
+Upper Saddle River, NJ: Prentice-Hall, 2002.
+
+Kernighan, B.W., and D.M. Ritchie. The C Programming Language, 2nd ed. Engle-
+wood Cliffs, NJ: Prentice Hall, 1988.
+
+Metcalf, M., and J. Reid. Fortran 90/95 Explained, 2nd ed. Oxford, England:
+Oxford University Press, 1999.
+
+Pratt, T. W. and M. V. Zelkowitz. Programming Languages, Design and Implementa-
+tion, 4th ed. Upper Saddle River, NJ: Prentice-Hall, 2001.
+
+Savitch, W. Absolute C++, 3rd ed. Boston, MA: Addison-Wesley, 2008.
+
+Savitch, W. Absolute Java, 3rd ed. Boston, MA: Addison-Wesley, 2008.
+
+Savitch, W. Problem Solving with C++, 6th ed. Boston, MA: Addison-Wesley, 2008.
+
+Scott, M. L. Programming Language Pragmatics, 3rd ed. New York: Morgan
+Kaufmann, 2009.
+
+Sebesta, R. W. Concepts of Programming Languages, 9th ed. Boston, MA: Addison-
+Wesley, 2009.
+
+Wu, C. T. An Introduction to Object-Oriented Programming with Java, 3rd ed. Burr
+Ridge, IL: McGraw-Hill, 2008.
