@@ -54,7 +54,7 @@ Prentice-Hall, 2008.
 
 
 
-## Networking and the Internet
+## Networking and the Internet:
 
 Antoniou, G. and F. van Harmelem. A Semantic Web Primer. Cambridge, MA: MIT
 Press, 2004.
@@ -90,3 +90,36 @@ Stallings, W. Cryptography and Network Security, 4th ed. Upper Saddle River, NJ:
 Prentice-Hall, 2006.
 
 Stevens, W. R. TCP/IP Illustrated, Vol. 1. Boston, MA: Addison-Wesley, 1994.
+
+
+
+## Algorithms:
+
+Aho, A. V., J. E. Hopcroft, and J. D. Ullman. The Design and Analysis of Computer
+Algorithms. Boston, MA: Addison-Wesley, 1974.
+
+Baase, S. Computer Algorithms: Introduction to Design and Analysis, 3rd ed. Boston,
+MA: Addison-Wesley, 2000.
+
+Barnes, J. High Integrity Software: The SPARK Approach to Safety and Security.
+Boston, MA: Addison-Wesley, 2003.
+
+Gries, D. The Science of Programming. New York: Springer-Verlag, 1998.
+
+Harbin, R. Origami—the Art of Paper Folding. London: Hodder Paperbacks, 1973.
+
+Johnsonbaugh, R. and M. Schaefer. Algorithms. Upper Saddle River, NJ: Prentice-
+Hall, 2004.
+
+Kleinberg, J. and E. Tardos. Algorithm Design. Boston, MA: Addision-Wesley,
+2006.
+
+Knuth, D. E. The Art of Computer Programming, Vol. 3, 3rd ed. Boston, MA:
+Addison-Wesley, 1998.
+
+Levitin, A. V. Introduction to the Design and Analysis of Algorithms, 2nd ed. Boston,
+MA: Addison-Wesley, 2007.
+
+Polya, G. How to Solve It. Princeton, NJ: Princeton University Press, 1973.
+
+Roberts, E. S. Thinking Recursively. New York: Wiley, 1986.
