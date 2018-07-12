@@ -216,3 +216,34 @@ Interface: Strategies for Effective Human-Computer Interaction, 5th ed. Boston, 
 Addison-Wesley, 2009.
 
 Sommerville, I. Software Engineering, 8th ed. Boston, MA: Addison-Wesley, 2006.
+
+
+
+## Data Abstraction:
+
+Carrano, F. M. Data Abstraction and Problem Solving with C++ : Walls and Mirrors,
+5th ed. Boston, MA: Addison-Wesley, 2007.
+
+Carrano, F. M. and J. Prichard. Data Abstraction and Problem Solving with Java:
+Walls and Mirrors, 2nd ed. Boston, MA: Addison-Wesley, 2006.
+
+Gray, S. Data Structures in Java: From Abstract Data Types to the Java Collections
+Framework. Boston, MA: Addison-Wesley, 2007.
+
+Main, M. Data Structures and Other Objects Using Java, 3rd ed. Boston, MA: Addison-
+Wesley, 2006.
+
+Main, M. and W. Savitch. Data Structures and Other Objects Using C++ , 4th ed.
+Boston, MA: Addison-Wesley, 2010.
+
+Shaffer, C. A. Practical Introduction to Data Structures and Algorithm Analysis, 2nd
+ed. Upper Saddle River, NJ: Prentice Hall, 2001.
+
+Weiss, M. A. Data Structures and Problem Solving Using Java, 3rd ed. Boston, MA:
+Addison-Wesley, 2006.
+
+Weiss, M. A. Data Structures and Algorithm Analysis in C++ , 3rd ed. Boston, MA:
+Addison-Wesley, 2007.
+
+Weiss, M. A. Data Structures and Algorithm Analysis in Java, 2nd ed. Boston, MA:
+Addison-Wesley, 2007.
