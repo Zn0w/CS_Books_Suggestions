@@ -165,3 +165,54 @@ Wesley, 2009.
 
 Wu, C. T. An Introduction to Object-Oriented Programming with Java, 3rd ed. Burr
 Ridge, IL: McGraw-Hill, 2008.
+
+
+
+## Software Engineering:
+
+Alexander, C., S. Ishikawa, and M. Silverstein. A Pattern Language. New York:
+Oxford University Press, 1977.
+
+Beck, K. Extreme Programming Explained: Embrace Change, 2nd ed. Boston, MA:
+Addison-Wesley, 2004.
+
+Bowman, D. A., E. Kruijff, J. J. LaViola, Jr., and I. Poupyrev. 3D User Interfaces
+Theory and Practice. Boston, MA: Addison-Wesley, 2005.
+
+Braude, E. Software Design: From Programming to Architecture. New York: Wiley,
+2004.
+
+Bruegge, B. and A. Dutoit. Object-Oriented Software Engineering Using UML,
+Patterns, and Java, 3rd ed. Boston, MA: Addison-Wesley, 2010.
+
+Cockburn, A. Agile Software Development: The Cooperative Game, 2nd ed. Boston,
+MA: Addison-Wesley, 2006.
+
+Fox, C. Introduction to Software Engineering Design: Processes, Principles and
+Patterns with UML2. Boston, MA: Addison-Wesley, 2007.
+
+Gamma, E., R. Helm, R. Johnson, and J. Vlissides. Design Patterns: Elements of
+Reusable Object-Oriented Software. Boston, MA: Addison-Wesley, 1995.
+
+Maurer, P. M. Component-Level Programming. Upper Saddle River, NJ: Prentice-
+Hall, 2003.
+
+Pfleeger, S. L. and J. M. Atlee. Software Engineering: Theory and Practice, 4th ed.
+Upper Saddle River, NJ: Prentice-Hall, 2010.
+
+Pilone, D. UML 2.0 in a Nutshell. Cambridge, MA: O’Reilly Media, 2005.
+
+Pressman, R. S. Software Engineering: A Practitioner’s Approach, 7th ed. New York:
+McGraw-Hill, 2009.
+
+Schach, S. R. Classical and Object-Oriented Software Engineering, 8th ed. New York:
+McGraw-Hill, 2010.
+
+Shalloway, A. and J. R. Trott. Design Patterns Explained, 2nd ed. Boston, MA:
+Addison-Wesley, 2005.
+
+Shneiderman, B., C. Plaisant, Cohen, M, and Jacobs S. Designing the User
+Interface: Strategies for Effective Human-Computer Interaction, 5th ed. Boston, MA:
+Addison-Wesley, 2009.
+
+Sommerville, I. Software Engineering, 8th ed. Boston, MA: Addison-Wesley, 2006.
