@@ -219,7 +219,7 @@ Sommerville, I. Software Engineering, 8th ed. Boston, MA: Addison-Wesley, 2006.
 
 
 
-## Data Abstraction:
+## Data Abstractions:
 
 Carrano, F. M. Data Abstraction and Problem Solving with C++ : Walls and Mirrors,
 5th ed. Boston, MA: Addison-Wesley, 2007.
@@ -247,3 +247,31 @@ Addison-Wesley, 2007.
 
 Weiss, M. A. Data Structures and Algorithm Analysis in Java, 2nd ed. Boston, MA:
 Addison-Wesley, 2007.
+
+
+
+## Database Systems:
+
+Beg, C. E. and T. Connolly. Database Systems: A Practical Approach to Design,
+Implementation and Management, 4th ed. Boston, MA: Addison-Wesley, 2005.
+
+Berstein, A., M. Kifer and P. M. Lewis. Database Systems, 2nd ed. Boston, MA:
+Addision-Wesley, 2006.
+
+Date, C. J. An Introduction to Database Systems, 8th ed. Boston, MA: Addison-
+Wesley, 2004.
+
+Date, C. J. Databases, Types and the Relational Model, 3rd ed. Boston, MA:
+Addison-Wesley, 2007.
+
+Elmasri, R. and S. Navathe. Fundamentals of Database Systems, 6th ed. Boston,
+MA: Addison-Wesley, 2011.
+
+Patrick, J. J. SQL Fundamentals, 3rd ed. Upper Saddle River, NJ: Prentice-Hall,
+2009.
+
+Silberschatz, A., H. Korth, and S. Sudarshan. Database Systems Concepts, 8th ed.
+New York: McGraw-Hill, 2009.
+
+Ullman, J. D. and J. D. Widom. A First Course in Database Systems, 3rd ed. Upper
+Saddle River, NJ: Prentice-Hall, 2008.
