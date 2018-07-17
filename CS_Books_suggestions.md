@@ -275,3 +275,22 @@ New York: McGraw-Hill, 2009.
 
 Ullman, J. D. and J. D. Widom. A First Course in Database Systems, 3rd ed. Upper
 Saddle River, NJ: Prentice-Hall, 2008.
+
+
+
+## Computer Graphics:
+
+Angel, E. Interactive Computer Graphics, A Top-Down Approach Using OpenGL, 5th ed.
+Boston, MA: Addison-Wesley, 2009.
+
+Bowman, D. A., E. Kruijff, J. J. LaViola, Jr., and I. Poupyrev. 3D User Interfaces
+Theory and Practice. Boston, MA: Addison-Wesley, 2005.
+
+Hill, Jr., F. L. and S. Kelley. Computer Graphics Using OpenGL. 3rd ed. Upper
+Saddle River, NJ: Prentice-Hall, 2007.
+
+McConnell, J. J. Computer Graphics, Theory into Practice. Sudbury, MA: Jones and
+Bartlett, 2006.
+
+Parent, R. Computer Animation, Algorithms and Techniques, 2nd ed. San Francisco,
+CA: Morgan Kaufmann, 2008.
