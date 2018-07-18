@@ -294,3 +294,39 @@ Bartlett, 2006.
 
 Parent, R. Computer Animation, Algorithms and Techniques, 2nd ed. San Francisco,
 CA: Morgan Kaufmann, 2008.
+
+
+
+## Artificial Intelligence:
+
+Banzhaf, W., P. Nordin, R. E. Deller, and F. D. Francone. Genetic Programming: An
+Introduction. San Francisco, CA: Morgan Kaufmann, 1998.
+
+Lu, J. and J. Wu. Multi-Agent Robotic Systems. Boca Raton, FL: CRC Press, 2001.
+
+Luger, G. F. Artificial Intelligence: Structures and Strategies for Complex Problem
+Solving, 5th ed. Boston, MA: Addison-Wesley, 2005.
+
+Mitchell, M. An Introduction to Genetic Algorithms. Cambridge, MA: MIT Press, 1998.
+
+Negnevitsky, M. Artificial Intelligence: A Guide to Intelligent Systems, 2nd ed.
+Boston, MA: Addison-Wesley, 2005.
+
+Nilsson, N. Artificial Intelligence: A New Synthesis. San Francisco, CA: Morgan
+Kaufmann, 1998.
+
+Nolfi, S. and D. Floreano. Evolutionary Robotics. Cambridge, MA: MIT Press, 2000.
+
+Rumelhart, D. E. and J. L. McClelland. Parallel Distributed Processing. Cambridge,
+MA: MIT Press, 1986.
+
+Russell, S. and P. Norvig. Artificial Intelligence: A Modern Approach, 3rd ed. Upper
+Saddle River, NJ: Prentice-Hall, 2009.
+
+Shapiro, L. G. and G. C. Stockman. Computer Vision. Englewood Cliffs, NJ:
+Prentice-Hall, 2001.
+
+Shieber, S. The Turing Test. Cambridge, MA: MIT Press, 2004.
+
+Weizenbaum, J. Computer Power and Human Reason. New York: W. H.
+Freeman, 1979.
