@@ -330,3 +330,33 @@ Shieber, S. The Turing Test. Cambridge, MA: MIT Press, 2004.
 
 Weizenbaum, J. Computer Power and Human Reason. New York: W. H.
 Freeman, 1979.
+
+
+
+## Theory of Computation:
+
+Garey, M. R. and D. S. Johnson. Computers and Intractability. New York: W. H.
+Freeman, 1979.
+
+Hamburger, H. and D. Richards. Logic and Language Models for Computer Science.
+Englewood Cliffs, NJ: Prentice-Hall, 2002.
+
+Hofstadter, D. R. Gödel, Escher, Bach: An Eternal Golden Braid. St. Paul, MN:
+Vintage, 1980.
+
+Hopcroft, J. E., R. Motwani, and J. D. Ullman. Introduction to Automata Theory,
+Languages, and Computation, 3rd ed. Boston, MA: Addison-Wesley, 2007.
+
+Lewis, H. R. and C. H. Papadimitriou. Elements of the Theory of Computation, 2nd
+ed. Englewood Cliffs, NJ: Prentice-Hall, 1998.
+
+Rich E. Automata. Computability, and Complexity: Theory and Application. Upper
+Saddle River, NJ: Prentice-Hall, 2008.
+
+Sipser, M. Introduction to the Theory of Computation. Boston: PWS, 1996.
+
+Smith, C. and E. Kinber. Theory of Computing: A Gentle Introduction. Englewood
+Cliffs, NJ: Prentice-Hall, 2001.
+
+Sudkamp, T. A. Languages and Machines: An Introduction to the Theory of
+Computer Science, 3rd ed. Boston, MA: Addison-Wesley, 2006.
